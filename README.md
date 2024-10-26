@@ -36,4 +36,4 @@ This project demonstrates how Django can serve as a smart assistant by integrati
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FirdayVoiceAssistant.git
+   git clone https://github.com/darshanpatel4/voicepal.git
