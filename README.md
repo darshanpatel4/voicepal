@@ -1,6 +1,6 @@
 # Firday Voice Assistant
 
-![Firday Voice Assistant](image_placeholder.png)
+![Firday Voice Assistant](preview.png)
 
 **Firday Voice Assistant** is a Django-based web application that processes voice input to respond intelligently to user queries. Inspired by JARVIS, this smart assistant provides real-time responses for various types of queries, including Wikipedia searches, current time, location searches, and YouTube video searches, using a range of external APIs.
 
