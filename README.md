@@ -2,11 +2,11 @@
 
 ![Firday Voice Assistant](preview.png)
 
-**Firday Voice Assistant** is a Django-based web application that processes voice input to respond intelligently to user queries. Inspired by JARVIS, this smart assistant provides real-time responses for various types of queries, including Wikipedia searches, current time, location searches, and YouTube video searches, using a range of external APIs.
+**VoicePal Assistant** is a Django-based web application that processes voice input to respond intelligently to user queries. Inspired by JARVIS, this smart assistant provides real-time responses for various types of queries, including Wikipedia searches, current time, location searches, and YouTube video searches, using a range of external APIs.
 
 ## Features
 
-- **Personalized Responses**: Firday can introduce itself by name and respond with unique messages.
+- **Personalized Responses**: VoicePal can introduce itself by name and respond with unique messages.
 - **Wikipedia Integration**: Retrieves a concise summary on any topic when a query mentions "Wikipedia."
 - **Time Queries**: Provides the current time in a friendly format.
 - **Location Search**: Directs users to specific locations by generating Google Maps links.
@@ -26,11 +26,11 @@
 
 1. **Input**: Users send text-based voice commands via HTTP POST requests.
 2. **Processing**: Based on keywords like "name," "Wikipedia," "time," "location," or "YouTube," the assistant interprets the query and executes the appropriate function.
-3. **Response**: Firday returns a JSON response containing the answer, search results, or a link.
+3. **Response**: VoicePal returns a JSON response containing the answer, search results, or a link.
 
 ## Project Goals
 
-This project demonstrates how Django can serve as a smart assistant by integrating real-time data and external APIs. Firday provides a foundation for building conversational AI applications with voice-command functionality.
+This project demonstrates how Django can serve as a smart assistant by integrating real-time data and external APIs. VoicePal provides a foundation for building conversational AI applications with voice-command functionality.
 
 ## Installation
 
